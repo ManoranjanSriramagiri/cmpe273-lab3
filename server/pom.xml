@@ -6,7 +6,7 @@
 	<groupId>edu.sjsu.cmpe</groupId>
 	<artifactId>server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CMPE 273 Distributed Cache via Consistent Hashing</name>
+	<name>CMPE 273 Distributed ChronicleMapCache</name>
 
 	<properties>
 		<dropwizard.version>0.6.2</dropwizard.version>
